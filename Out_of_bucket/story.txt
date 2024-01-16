@@ -1,0 +1,5 @@
+Out of bucket. These phrases made me realized it is not inside the current directory but out of it.
+
+So I search up https://storage.googleapis.com/out-of-the-bucket/ and found there are some hidden files.
+
+And I gone through each until I saw this secret/dont_show file. So I checked and found the existing flag.

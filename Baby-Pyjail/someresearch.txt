@@ -1,0 +1,7 @@
+https://github.com/topics/pyjail
+
+https://github.com/salvatore-abello/python-ctf-cheatsheet
+
+https://github.com/SecHack365-Fans/PyJailBreak
+
+https://github.com/salvatore-abello/python-ctf-cheatsheet/blob/main/pyjails/how-to-solve-a-pyjail.md
